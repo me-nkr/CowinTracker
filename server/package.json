@@ -1,0 +1,15 @@
+{
+  "name": "cowintracker",
+  "version": "1.0.0",
+  "description": "Track and Notify open slots on coWin portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me.nkr",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "ws": "^7.4.5"
+  }
+}
